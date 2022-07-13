@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #86d2f2;
+    font-family: "Roboto";
+    height: 100vh;
+
+}
+
+.main-heading {
+    font-size: 42px;
+    font-weight: 600;
+    padding: 15px;
+}
+
+.container-lights {
+    background-color: #1f1d41;
+    width: 120px;
+    height: 360px;
+    padding: 10px;
+    border-radius: 45px;
+    margin: 20px;
+
+}
+
+#stopButton {
+    width: 80px;
+    height: 40px;
+    background-color: #1f1d41;
+    border-radius: 10px;
+    color: #ffffff;
+    margin: 30px;
+}
+
+#readyButton {
+    width: 80px;
+    height: 40px;
+    background-color: #1f1d41;
+    border-radius: 10px;
+    color: #ffffff;
+    margin: 30px;
+}
+
+#goButton {
+    width: 80px;
+    height: 40px;
+    background-color: #1f1d41;
+    border-radius: 10px;
+    color: #ffffff;
+    margin: 30px;
+}
+
+#stopLight {
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    margin: 20px;
+    background-color: #4b5069;
+}
+
+#readyLight {
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    margin: 20px;
+    background-color: #4b5069;
+}
+
+#goLight {
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    margin: 20px;
+    background-color: #4b5069;
+}
