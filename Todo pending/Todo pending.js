@@ -43,7 +43,6 @@ function createAndAppendTodo(todo) {
     iconContainer.appendChild(icon);
 
 
-    console.log(todoItemsContainer);
 }
 
 for (let todo of todoList) {
